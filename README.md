@@ -1,12 +1,6 @@
 
-<h1 align="center">
-  <br>
-  <a href="https://orchid.software/"><img src="https://orchid.software/img/orchid.svg" alt="ORCHID" width="250"></a>
-  <br>
-  <br>
-</h1>
 
-<h4 align="center">Laravel Stone - HTTP server using the  <a href="https://reactphp.org" target="_blank">ReactPHP</a>.</h4>
+# Laravel Stone - HTTP server using the  <a href="https://reactphp.org" target="_blank">ReactPHP</a>
 
 
 
