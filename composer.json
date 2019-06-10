@@ -1,5 +1,5 @@
 {
-  "name": "orchid/stone",
+  "name": "tabuna/stone",
   "description": "Laravel Stone - HTTP server using the ReactPHP",
   "keywords": [
     "framework",
@@ -7,13 +7,8 @@
     "server",
     "react"
   ],
-  "homepage": "http://orchid.software",
   "type": "library",
   "license": "MIT",
-  "support": {
-    "issues": "https://github.com/orchidsoftware/stone/issues",
-    "source": "https://github.com/orchidsoftware/stone"
-  },
   "authors": [
     {
       "name": "Alexandr Chernyaev",
