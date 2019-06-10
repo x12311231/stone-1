@@ -12,7 +12,7 @@ However now the tables are turned: we're vulnerable to memory consumption, fatal
 Installer using Composer:
 
 ```bash
-$ composer require orchid/stone
+$ composer require tabuna/stone
 ```
 
 ## Example
@@ -117,9 +117,3 @@ If you would like to support development by making a donation you can do so [her
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
-
----
-
-> [orchid.software](https://orchid.software) &nbsp;&middot;&nbsp;
-> GitHub [@tabuna](https://github.com/tabuna) &nbsp;&middot;&nbsp;
-> Twitter [@orchid_platform](https://twitter.com/orchid_platform)
