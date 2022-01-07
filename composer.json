@@ -18,7 +18,7 @@
   "require": {
     "react/event-loop": "^1.0",
     "react/http": "^0.8.3",
-    "symfony/psr-http-message-bridge": "^1.1"
+    "symfony/psr-http-message-bridge": "^2.1"
   },
   "config": {
     "sort-packages": true
